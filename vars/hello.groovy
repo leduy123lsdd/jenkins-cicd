@@ -3,7 +3,8 @@ import jenkins.cicd.*
 def call(){
     def test = new test()
 
-    stage(){
-        println("hello world")
-    }
+    //stage("test"){
+    //    println("hello world")
+    //}
+    test.testCall()
 }
