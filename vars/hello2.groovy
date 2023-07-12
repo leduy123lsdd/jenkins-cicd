@@ -11,6 +11,6 @@ def call(){
     }
 
     stage("test") {
-        println("second day")
+
     }
 }
