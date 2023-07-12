@@ -6,5 +6,7 @@ def call(){
     //stage("test"){
     //    println("hello world")
     //}
-    test.testCall()
+    stage("hello guys") {
+        println("hahah ahdfsiosdjf osdifjosidjfoi jsdofjosdijfsdf sfds fds")
+    }
 }
